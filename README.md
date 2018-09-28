@@ -14,6 +14,9 @@ If you not live in China, please don't install.
 * [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/Oxygen-OS-Gps.conf-Back-china/issues/new)
 
 
+
+##v1.0.3 更改ID符合magisk要求
+
 ##V1.0.1 增加说明和反馈和英文解释
 
 ##V1.0.0 初始版本
